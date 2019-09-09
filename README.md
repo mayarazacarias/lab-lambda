@@ -1,2 +1,2 @@
 # lab-lambda
-Laboratório de práticas com Lambda e novos recursos do java. 
+This project propose pratice with lambdas on Java 11. Codes with Fujioka and your tests. Dont use this project for any prupose.
